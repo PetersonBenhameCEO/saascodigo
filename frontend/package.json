@@ -40,7 +40,7 @@
     "react-modal-image": "^2.5.0",
     "react-number-format": "^4.6.4",
     "react-qr-code": "^2.0.7",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^6.0.0",
     "react-scripts": "3.4.3",
     "react-text-mask": "^5.5.0",
     "react-toastify": "9.0.0",
